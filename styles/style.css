@@ -145,17 +145,23 @@ ul > li {
   font-weight: 600;
   margin-bottom: 16px;
 }
-input,
-[type="email"] {
+input {
   padding: 10px;
   color: #f3f3f3;
   font-size: 18px;
   font-weight: 400;
   border-radius: 8px;
   border: 1px solid #fff;
+  margin-bottom: 30px;
 }
 .btn {
+  color: #f15b22;
+  font-family: Inter;
+  font-size: 20px;
+  padding: 10px;
+  font-weight: 600;
   border-radius: 8px;
   background: #fff;
-  padding: 20px 21px;
+  display: block;
+ 
 }
